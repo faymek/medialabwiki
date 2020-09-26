@@ -4,7 +4,7 @@
   - [HEVC](codec/HEVC.md)
   - [SVT-HEVC](codec/SVT-HEVC.md)
   
-- AI
+- [AI](AI.md)
 - 科研
   - [文献阅读](read.md)
   - 论文写作

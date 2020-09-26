@@ -1,12 +1,15 @@
 ## Medialab Wiki
 
-> Medialab 知识库
+?> Medialab 知识库
 
 ## 颜色主题
 
 点击可更换主题
 
 <div class="demo-theme-preview">
+  <a data-theme="theme-defaults">defaults.css</a>
+  <a data-theme="theme-simple">simple.css</a>
+  <a data-theme="theme-simple-dark">simple-dark.css</a>
   <a data-theme="vue">vue.css</a>
   <a data-theme="buble">buble.css</a>
   <a data-theme="dark">dark.css</a>
@@ -36,8 +39,3 @@
     });
   };
 </script>
-
-其他主题：
-
-- [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable/#/) A delightfully simple theme system for docsify.
-

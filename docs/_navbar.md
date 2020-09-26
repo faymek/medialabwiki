@@ -1,3 +1,3 @@
-- Translations
-  - [:uk: English](/)
-  - [:cn: 中文](/zh-cn/)
+- 导航
+  - [:cloud: 网盘](/)
+  - [:octopus: 仓库](/)

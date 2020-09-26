@@ -2,7 +2,7 @@
 
 # Medialab Wiki <small>0.0.1</small>
 
-> A magical documentation site generator.
+> Medialab 知识库
 
 - Simple and lightweight
 - Powered by docsity
